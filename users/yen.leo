@@ -102,7 +102,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -522,16 +522,13 @@ and images can be specified like so:
 
 						
 </t>
-<t tx="amd.20161004104641.2"># 機械設計主題教學
+<t tx="amd.20161004104641.2">&lt;section&gt;
+&lt;h2&gt;9/29作業影片&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/185637996" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/185637996"&gt;製圖作業&lt;/a&gt; from &lt;a href="https://vimeo.com/user45109608"&gt;TommyGWOW&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-### 1. 強化創造能力 
-(Creative Competencies, CC1-3)
-### 2. 熟習六種表達 
-(Six Presentation Methods, SP1-6)
-### 3. 融入協同設計 
-(Collaborative Designs, CD1-4)
-
-</t>
+&lt;p&gt;心得 : 用SOLVESPACE這套軟體繪製3D零件，介面功能都不太熟悉，但經過幾次的練習之後，慢慢地熟悉SOLVESPACE的功能。&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="amd.20161004104820.1">&lt;section&gt;
 @others
 &lt;/section&gt;
